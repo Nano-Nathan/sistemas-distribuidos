@@ -1,0 +1,15 @@
+[submodule "PI1-Serrano"]
+	path = PI1-Serrano
+	url = git@github.com:FING-Sistemas-Distribuidos-2023/PI1-Serrano.git
+[submodule "practica-ansible"]
+	path = practica-ansible
+	url = git@github.com:FING-Sistemas-Distribuidos-2023/practica-ansible.git
+[submodule "practica-redis-k8s"]
+	path = practica-redis-k8s
+	url = git@github.com:FING-Sistemas-Distribuidos-2023/practica-redis-k8s.git
+[submodule "practica-terraform"]
+	path = practica-terraform
+	url = git@github.com:FING-Sistemas-Distribuidos-2023/practica-terraform.git
+[submodule "practica-intro-k8s"]
+	path = practica-intro-k8s
+	url = git@github.com:FING-Sistemas-Distribuidos-2023/practica-intro-k8s.git
